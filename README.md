@@ -17,7 +17,7 @@ Here's the content for the first day workshop.
 
 5 pm – 5:15 pm: Hackathon Welcome, Introduction and Review Plan and Rules, Prof. Olson / Prof. Pyrcz
 
-5:15-6:30 pm: Essential Energy Data Science, Numpy, Pandas, Git - Prof. Foster
+5:15 - 6:30 pm: Essential Energy Data Science, Numpy, Pandas, Git - Prof. Foster
 
 6:30 – 7:00 pm: Feature Importance, Engineering and Selection, Multivariate Analysis and Shapley Values
 Prof. Pyrcz
