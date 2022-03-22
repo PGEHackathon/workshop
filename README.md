@@ -11,7 +11,7 @@
 ### Organization and Student Engagement: Gabby Banales, Sara Hernando and Tracey Wilson
 ___
 
-# Energy A.I. Day 1 Workshop
+# Energy A.I. $\frac{1}{2}$-Day Workshop
 
 Here's the content for the first day workshop.
 
