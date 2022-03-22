@@ -1,34 +1,33 @@
-# Energy A.I. Hackathon 2021
+# Energy A.I. Hackathon 2022
 
 ## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John Foster](https://twitter.com/johntfoster)
 
-### Architects: [Honggen Jo](https://twitter.com/HonggeunJ) and Mingyuan Yang
+### Architects: [Wen Pan](https://www.linkedin.com/in/wen-pan/) and Elnara Rustamzade [https://www.linkedin.com/in/elnara-rustamzade-779396162/?originalSubdomain=az]
 
 ### Sponsor: [Prof. Jon Olson](https://twitter.com/ProfJEOlson), and the [Hildebrand Department of Petroleum and Geosystems Engineering](https://twitter.com/UT_PGE)
 
-### Organization and Student Engagement: Gabby Banales and Sara Hernando
+### Organization and Student Engagement: Gabby Banales, Sara Hernando and Tracey Wilson
 ___
 
 # Energy A.I. Day 1 Workshop
 
 Here's the content for the first day workshop.
 
-## **DAY 1 / April 10th - Energy A.I. Hackathon 2021 Workshop Schedule**
+## **DAY 1 / March 25th - Energy A.I. Hackathon 2022 Workshop Schedule**
 
-8 am – 8:15 am: Hackathon Welcome, Introduction and Review Plan and Rules – Prof. Olson / Prof. Pyrcz
+5 pm – 5:15 pm: Hackathon Welcome, Introduction and Review Plan and Rules, Prof. Olson / Prof. Pyrcz
 
-8:15-10 am: Essential Energy Data Science, Numpy, Pandas, Git – Prof. Foster
+5:15-6:30 pm: Essential Energy Data Science, Numpy, Pandas, Git - Prof. Foster
 
-10 – 11:30 am: Feature Importance, Engineering and Selection, Multivariate Analysis and Shapley Values – Prof. Pyrcz
+6:30 – 7:00 pm: Feature Importance, Engineering and Selection, Multivariate Analysis and Shapley Values
+Prof. Pyrcz
 
-11:30 am – 12:30 am: Lunch Break
+7:00 – 7:30 pm: Spatial Mapping and Spatial Data Analytics – Prof. Pyrcz
 
-12:30 – 1:30 pm: Machine Learning Basics, Train and Tune Overview of Methods – Prof. Pyrcz
+7:30 – 8:00 pm: Machine Learning Basics, Train and Tune Overview of Methods - Prof. Pyrcz
 
-1:30 – 2:30 pm: Machine Learning in Python, scikit-learn and TensorFlow Packages – Prof. Foster
+8:00 – 8:30 pm: Machine Learning in Python, scikit-learn and TensorFlow Packages – Prof. Foster
 
-2:30 – 3:30: Model QC, Uncertainty Modeling and Checking – Prof. Pyrcz
+8:30 – 9:00 pm: Introduce the Energy A.I. Hackathon Problem and Mystery Data Set – Prof. Pyrcz / Prof. Foster
 
-3:30 – 4:30: Introduce the Energy A.I. Hackathon Problem and Mystery Data Set – Prof. Pyrcz / Prof. Foster
-
-4:30 - : Teams Break-out for Initial Data Review and Planning
+9:00 pm - : Teams Break-out for Initial Data Review and Planning
