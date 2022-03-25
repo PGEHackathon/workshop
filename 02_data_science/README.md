@@ -13,3 +13,6 @@
 [Pandas](https://www.youtube.com/watch?v=jE-XTWhWLRU&list=PLCnlJOMhMC0PW7IUv312SgQauEujq1HdU&index=10)
 
 [Matplotlib](https://www.youtube.com/watch?v=1FuSvXlqHns&list=PLCnlJOMhMC0PW7IUv312SgQauEujq1HdU&index=11)
+
+[Using Github without a password](https://youtu.be/MaCweE6CFcw) ([Github
+docs](https://docs.github.com/en/developers/overview/using-ssh-agent-forwarding))
