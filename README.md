@@ -1,4 +1,4 @@
-# Energy A.I. Hackathon 2022
+# Energy A.I. Hackathon 2023
 
 ## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John Foster](https://twitter.com/johntfoster)
 
