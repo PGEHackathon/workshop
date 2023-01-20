@@ -4,6 +4,10 @@
 
 [https://johnfoster.pge.utexas.edu/numerical-methods-book/ScientificPython.html](https://johnfoster.pge.utexas.edu/numerical-methods-book/ScientificPython.html)
 
+### 2021 Hackathon Example Solution
+
+[https://johnfoster.pge.utexas.edu/blog/posts/hackathon/](https://johnfoster.pge.utexas.edu/blog/posts/hackathon/)
+
 ### YouTube Videos
 
 [Git and Github](https://www.youtube.com/watch?v=0xrsyxsI31A&list=PLCnlJOMhMC0PW7IUv312SgQauEujq1HdU&index=3)
