@@ -4,7 +4,7 @@
 
 ### Architects: [Elnara Rustamzade](https://www.linkedin.com/in/elnara-rustamzade-779396162/) and [Fehmi Ozbayrak](https://www.linkedin.com/in/fozbayrak)
 
-### Home Department Chair and Hackathon Suporter: [Prof. Matt Balhoff](https://twitter.com/ProfJEOlson](https://www.linkedin.com/in/matthew-balhoff-4297b247)
+### Home Department Chair and Hackathon Suporter: [Prof. Matt Balhoff](https://www.linkedin.com/in/matthew-balhoff-4297b247)
 
 ### Sponsors: [ComboCurve Inc.](https://www.combocurve.com/), [Pioneer Oil Company Inc.](https://pioneeroil.net/), [Chevron](https://www.chevron.com) and [Baker Hughes](https://www.bakerhughes.com/)
 
