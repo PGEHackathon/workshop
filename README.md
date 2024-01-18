@@ -15,7 +15,7 @@ ___
 
 Here's the content for the first day workshop.
 
-## **DAY 1 / January 20th - Energy A.I. Hackathon 2023 Workshop Schedule**
+## **DAY 1 / January 19th - Energy A.I. Hackathon 2024 Workshop Schedule**
 
 5 pm – 5:15 pm: Hackathon Welcome, Introduction and Review Plan and Rules, Prof. Olson / Prof. Pyrcz
 
