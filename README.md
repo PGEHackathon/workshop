@@ -8,7 +8,7 @@
 
 ### Sponsors: [ComboCurve Inc.](https://www.combocurve.com/), [Pioneer Oil Company Inc.](https://pioneeroil.net/), [Chevron](https://www.chevron.com) and [Baker Hughes](https://www.bakerhughes.com/)
 
-### Coordination and Student Engagement: Gabby Banales, Trevor Oxley, Samantha Rabinowitz and Stacia Miller
+### Coordination and Student Engagement: Rowan Halliday, Heba Abdel-Rahim, Gabby Banales
 ___
 
 # Energy A.I. 1/2-Day Workshop
