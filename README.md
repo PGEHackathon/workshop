@@ -2,7 +2,7 @@
 
 ## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John Foster](https://twitter.com/johntfoster)
 
-### Architects: [Elnara Rustamzade](https://www.linkedin.com/in/elnara-rustamzade-779396162/) and [Fehmi Ozbayrak](www.linkedin.com/in/ruoyu-wang1](https://www.linkedin.com/in/fozbayrak)
+### Architects: [Elnara Rustamzade](https://www.linkedin.com/in/elnara-rustamzade-779396162/) and [Fehmi Ozbayrak](https://www.linkedin.com/in/fozbayrak)
 
 ### Home Department Chair and Hackathon Suporter: [Prof. Matt Balhoff](https://twitter.com/ProfJEOlson](https://www.linkedin.com/in/matthew-balhoff-4297b247)
 
