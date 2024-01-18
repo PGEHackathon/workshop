@@ -24,7 +24,7 @@ Here's the content for the first day workshop.
 6:30 – 7:00 pm: Feature Importance, Engineering and Selection, Multivariate Analysis and Shapley Values
 Prof. Pyrcz
 
-7:00 – 7:30 pm: Time Series Analysis – Prof. Pyrcz
+7:00 – 7:30 pm: Feature Imputation, Uncertainty Modeling – Prof. Pyrcz
 
 7:30 – 8:00 pm: Machine Learning Basics, Train and Tune Overview of Methods - Prof. Pyrcz
 
