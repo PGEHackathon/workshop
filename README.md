@@ -21,10 +21,10 @@ Here's the content for the first day workshop.
 
 5:15 - 6:30 pm: Essential Energy Data Science, Numpy, Pandas, Git - Prof. Foster
 
-6:30 – 7:00 pm: Feature Importance, Engineering and Selection, Multivariate Analysis and Shapley Values
+6:30 – 7:00 pm: Feature Importance, Feature Imputation, Engineering and Selection, Multivariate Analysis and Shapley Values
 Prof. Pyrcz
 
-7:00 – 7:30 pm: Feature Imputation, Uncertainty Modeling – Prof. Pyrcz
+7:00 – 7:30 pm: Uncertainty Modeling – Prof. Pyrcz
 
 7:30 – 8:00 pm: Machine Learning Basics, Train and Tune Overview of Methods - Prof. Pyrcz
 
