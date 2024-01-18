@@ -30,6 +30,6 @@ Prof. Pyrcz
 
 8:00 – 8:30 pm: Machine Learning in Python, scikit-learn and TensorFlow Packages – Prof. Foster
 
-8:30 – 9:00 pm: Introduce the Energy A.I. Hackathon 2023 Problem and Mystery Data Set – Prof. Pyrcz / Prof. Foster
+8:30 – 9:00 pm: Introduce the Energy A.I. Hackathon 2024 Problem and Mystery Data Set – Prof. Pyrcz / Prof. Foster
 
 9:00 pm - : Teams Break-out for Initial Data Review and Planning
