@@ -17,7 +17,9 @@ Silver:
 Bronze:
 [ComboCurve Inc.](https://www.combocurve.com/), [General Electric](https://www.ge.com/)
 
-### Coordination and Student Engagement: Rowan Halliday, Heba Abdel-Rahim, Gabby Banales
+### Coordination and Student Engagement: 
+
+Rowan Halliday, Heba Abdel-Rahim, Gabby Banales, Stacia Miller, Samatha Rabinowitz
 ___
 
 # Energy A.I. 1/2-Day Workshop
