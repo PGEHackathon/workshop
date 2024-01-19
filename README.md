@@ -6,7 +6,16 @@
 
 ### Home Department Chair and Hackathon Suporter: [Prof. Matt Balhoff](https://www.linkedin.com/in/matthew-balhoff-4297b247)
 
-### Sponsors: [ComboCurve Inc.](https://www.combocurve.com/), [Pioneer Oil Company Inc.](https://pioneeroil.net/), [Chevron](https://www.chevron.com) and [Baker Hughes](https://www.bakerhughes.com/)
+### Sponsors 
+
+Platinum:
+[Pioneer Oil Company Inc.](https://pioneeroil.net/), [Phillips66](https://www.phillips66.com/)
+
+Silver:
+[Chevron](https://www.chevron.com), [Shell](https://www.shell.us/), [ExxonMobil](https://corporate.exxonmobil.com/), Elizabeth Huth CoatesCharitable Foundation of 1992
+
+Bronze:
+[ComboCurve Inc.](https://www.combocurve.com/), [General Electric](https://www.ge.com/)
 
 ### Coordination and Student Engagement: Rowan Halliday, Heba Abdel-Rahim, Gabby Banales
 ___
