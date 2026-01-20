@@ -50,14 +50,14 @@ Prof. Pyrcz
 
 9:00 pm - : Teams Break-out for Initial Data Review and Planning
 
-| Time | Topic | Notes | Workflow | Dashboard | e-book |
-|------|------|-------|----------|-----------|--------------|
-| 5:00 – 5:15 pm | Hackathon Welcome, Introduction, Review of Plan and Rules (Prof. Balhoff / Prof. Pyrcz) | [Notes](01_introduction/2025_PGE_Hackathon_Introduction.pdf) |  |  |  |
-| 5:15 – 6:30 pm | Essential Energy Data Science: NumPy, Pandas, Git (Prof. Foster) |  | [example](https://johnfoster.pge.utexas.edu/blog/posts/hackathon/) |  | [e-book](https://johnfoster.pge.utexas.edu/numerical-methods-book/ScientificPython.html) |
-| 6:30 – 7:00 pm | Feature Importance, Imputation, Engineering and Selection; Multivariate Analysis and Shapley Values (Prof. Pyrcz) |  |  |  |  |
-| 7:00 – 7:30 pm | Uncertainty Modeling (Prof. Pyrcz) |  |  |  |  |
-| 7:30 – 8:00 pm | Machine Learning Basics: Training, Tuning, and Overview of Methods (Prof. Pyrcz) |  |  |  |  |
-| 8:00 – 8:30 pm | Machine Learning in Python: scikit-learn and TensorFlow (Prof. Foster) |  |  |  |  |
-| 8:30 – 9:00 pm | Energy A.I. Hackathon 2024: Problem Introduction and Mystery Dataset (Prof. Pyrcz / Prof. Foster) |  |  |  |  |
-| 9:00 pm – | Team Break-out: Initial Data Review and Planning |  |  |  |  |
+| Time | Topic | Notes | Workflow | Dashboard | e-book | YouTube |
+|------|------|-------|----------|-----------|--------------|-------------|
+| 5:00 – 5:15 pm | Hackathon Welcome, Introduction, Review of Plan and Rules (Prof. Balhoff / Prof. Pyrcz) | [Notes](01_introduction/2025_PGE_Hackathon_Introduction.pdf) |  |  |  |  |
+| 5:15 – 6:30 pm | Essential Energy Data Science: NumPy, Pandas, Git (Prof. Foster) |  | [example](https://johnfoster.pge.utexas.edu/blog/posts/hackathon/) |  | [e-book](https://johnfoster.pge.utexas.edu/numerical-methods-book/ScientificPython.html) |  |
+| 6:30 – 7:00 pm | Feature Importance, Imputation, Engineering and Selection; Multivariate Analysis and Shapley Values (Prof. Pyrcz) |  |  |  |  |  |
+| 7:00 – 7:30 pm | Uncertainty Modeling (Prof. Pyrcz) |  |  |  |  |  |
+| 7:30 – 8:00 pm | Machine Learning Basics: Training, Tuning, and Overview of Methods (Prof. Pyrcz) |  |  |  |  |  |
+| 8:00 – 8:30 pm | Machine Learning in Python: scikit-learn and TensorFlow (Prof. Foster) |  |  |  |  |  |
+| 8:30 – 9:00 pm | Energy A.I. Hackathon 2024: Problem Introduction and Mystery Dataset (Prof. Pyrcz / Prof. Foster) |  |  |  |  |  |
+| 9:00 pm – | Team Break-out: Initial Data Review and Planning |  |  |  |  |  |
 
