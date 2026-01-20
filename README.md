@@ -1,25 +1,27 @@
-# Energy A.I. Hackathon 2025, the Fifth Annual Event
+# Energy A.I. Hackathon 2026, the 6th Annual Event
 
-## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John T. Foster](https://twitter.com/johntfoster)
+## Hosts: [Prof. Michael Pyrcz](https://x.com/GeostatsGuy) and [Prof. John T. Foster](https://x.com/johntfoster)
 
-### Architects: [Ahmed Merzoug](https://www.linkedin.com/in/ahmed-merzoug/) and [Elnara Rustamzade](https://www.linkedin.com/in/elnara-rustamzade-779396162/)
+### Architects: [Dinghan Wang](https://www.linkedin.com/in/dinghan-wang-b1669b32b/) and [Nataly Chacon-Buitrago](https://www.linkedin.com/in/nataly-chacon-buitrago/)
 
 ### Home Department Chair and Hackathon Supporter: [Prof. Matthew Balhoff](https://www.linkedin.com/in/matthew-balhoff-4297b247/)
+
 
 ### Sponsors 
 
 Platinum:
-[Phillips66](https://www.phillips66.com/), [Chevron](https://www.chevron.com), [ConocoPhillips](https://www.conocophillips.com/)
+[Phillips66](https://www.phillips66.com/), [Chevron](https://www.chevron.com), [ConocoPhillips](https://www.conocophillips.com/), [Oxy](https://www.oxy.com/about/)
 
-Silver:
-[Shell](https://www.shell.us/), [ExxonMobil](https://corporate.exxonmobil.com/), [Aramco Americas](https://americas.aramco.com/en)
+Gold:
+[ExxonMobil](https://corporate.exxonmobil.com/), [Aramco Americas](https://americas.aramco.com/en)
 
 Bronze:
-[Elk Range Roylaties]()
+[Elk Range Roylaties](https://www.elkrange.com/), [ComboCurve](https://combocurve.com/)
 
-### Coordination and Student Engagement: Rowan Halliday, Heba Abdel-Rahim, Gabby Banales, and Stacia Miller
+### Coordination and Student Engagement: Rowan Halliday, Gabby Banales, and Stacia Miller
 
-### Appreciate to the Hildebrand Department of Petroleum and Geosystems Engineering for their great support of the Energy AI Hackathon 
+### Appreciation to the Hildebrand Department of Petroleum and Geosystems Engineering for their great support of the Energy AI Hackathon 
+
 ___
 
 # Energy A.I. 1/2-Day Workshop
