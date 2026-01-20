@@ -52,7 +52,7 @@ Prof. Pyrcz
 
 | Time | Topic | Notes | Workflow | Dashboard |
 |------|------|-------|----------|-----------|
-| 5:00 – 5:15 pm | Hackathon Welcome, Introduction, Review of Plan and Rules (Prof. Balhoff / Prof. Pyrcz) |  |  |  |
+| 5:00 – 5:15 pm | Hackathon Welcome, Introduction, Review of Plan and Rules (Prof. Balhoff / Prof. Pyrcz) | [Notes](01_introduciton/2025_PGE_Hackathon_Introduction.pdf) |  |  |
 | 5:15 – 6:30 pm | Essential Energy Data Science: NumPy, Pandas, Git (Prof. Foster) |  |  |  |
 | 6:30 – 7:00 pm | Feature Importance, Imputation, Engineering and Selection; Multivariate Analysis and Shapley Values (Prof. Pyrcz) |  |  |  |
 | 7:00 – 7:30 pm | Uncertainty Modeling (Prof. Pyrcz) |  |  |  |
