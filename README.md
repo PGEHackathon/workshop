@@ -40,3 +40,5 @@ Here's the content for the first day workshop.
 | 8:00 – 8:30 pm | Machine Learning in Python: scikit-learn and TensorFlow (Prof. Foster) |  | [scikit-learn](06_machine_learning_python/scikitlearn.ipynb) [neural nets](06_machine_learning_python/NeuralNet.ipynb) |  |  |  |
 | 8:30 – 9:00 pm | Energy A.I. Hackathon 2024: Problem Introduction and Mystery Dataset (Prof. Pyrcz / Prof. Foster) |  |  |  |  |  |
 | 9:00 pm – | Team Break-out: Initial Data Review and Planning |  |  |  |  |  |
+
+This is a change to the file.
