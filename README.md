@@ -9,14 +9,23 @@
 
 ### Sponsors 
 
-Platinum:
-[Phillips66](https://www.phillips66.com/), [Chevron](https://www.chevron.com), [ConocoPhillips](https://www.conocophillips.com/), [Oxy](https://www.oxy.com/about/)
+[Aramco Americas](https://americas.aramco.com/en)
 
-Gold:
-[ExxonMobil](https://corporate.exxonmobil.com/), [Aramco Americas](https://americas.aramco.com/en)
+[Chevron](https://www.chevron.com)
 
-Bronze:
-[Elk Range Roylaties](https://www.elkrange.com/), [ComboCurve](https://combocurve.com/)
+[ComboCurve](https://combocurve.com/)
+
+[ConocoPhillips](https://www.conocophillips.com/)
+
+[Elk Range Roylaties](https://www.elkrange.com/)
+
+[ExxonMobil](https://corporate.exxonmobil.com/)
+
+[Oxy](https://www.oxy.com/about/)
+
+[Phillips66](https://www.phillips66.com/)
+
+[Shell](https://www.shell.com/)
 
 ### Coordination and Student Engagement: Rowan Halliday, Gabby Banales, and Stacia Miller
 
